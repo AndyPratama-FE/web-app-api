@@ -1,0 +1,15 @@
+{
+"Movies": [
+{"id":1,"judul":"Lotta på Bråkmakargatan","genre":"Children"},
+{"id":2,"judul":"Ed Hardy: Tattoo the World ","genre":"Documentary"},
+{"id":3,"judul":"Vice Squad","genre":"Action|Thriller"},
+{"id":4,"judul":"Gospa","genre":"Drama"},
+{"id":5,"judul":"Follow That Dream","genre":"Comedy|Musical"},
+{"id":6,"judul":"Come and Get It","genre":"Drama"},
+{"id":7,"judul":"Treasure of the Yankee Zephyr (Race for the Yankee Zephyr)","genre":"Action|Adventure|Drama"},
+{"id":8,"judul":"Zatoichi's Conspiracy (Shin Zatôichi monogatari: Kasama no chimatsuri) (Zatôichi 25)","genre":"Action|Drama"},
+{"id":9,"judul":"Happy Event, A (Un Heureux Evénement)","genre":"Comedy|Drama|Romance"},
+{"id":10,"judul":"I Am Divine","genre":"Documentary"},
+{"id":11,"judul":"Good Son, The","genre":"Drama|Thriller"},
+{"id":12,"judul":"...tick... tick... tick...","genre":"Action|Drama"}
+]}
