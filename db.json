@@ -1,16 +1,16 @@
 {
-  "Movies": [
-      {"id":1,"judul":"Cheetah","genres":"Adventure|Children"},
-      {"id":2,"judul":"Auto Focus","genres":"Crime|Drama"},
-      {"id":3,"judul":"Ain't Them Bodies Saints","genres":"Drama"},
-      {"id":4,"judul":"Lincoln","genres":"Drama|War"},
-      {"id":5,"judul":"Reckless Moment, The","genres":"Drama|Film-Noir"},
-      {"id":6,"judul":"Deep Red (Profondo rosso)","genres":"Horror|Mystery|Thriller"},
-      {"id":7,"judul":"Avengers, The","genres":"Action|Adventure|Sci-Fi|IMAX"},
-      {"id":8,"judul":"Loco Love (Mi Casa, Su Casa)","genres":"Comedy"},
-      {"id":9,"judul":"The Magnet","genres":"Comedy"},
-      {"id":10,"judul":"Metropia","genres":"Animation|Sci-Fi"},
-      {"id":11,"judul":"Mount Head (Atama yama)","genres":"Animation|Comedy|Drama|Fantasy"},
-      {"id":12,"judul":"My Beautiful Laundrette","genres":"Drama|Romance"}
+  "Komik": [
+      {"id":1,"judul":"Solo Leveling","genres":"Adventure|Action|Adventure|Fantasy|Magic|Shounen"},
+      {"id":2,"judul":"One Piece","genres":"Action|Adventure|Comedy|Drama|Fantasy|Sci-Fi|Shounen|Super Power"},
+      {"id":3,"judul":"Kimetsu no Yaiba","genres":" Action|Adventure|emons|Drama|Fantasy|Historical|Martial Arts|Shounen|Supernatural|Tragedy"},
+      {"id":4,"judul":"Tales of Demons and Gods","genres":" Action|Adventure|Comedy|Drama|Fantasy|Harem|Martial Arts|Romance|Shounen"},
+      {"id":5,"judul":"Boruto: Naruto Next Generations","genres":"Action|Adventure|Comedy|Drama|Fantasy|Martial Arts|Shounen|Super Power"},
+      {"id":6,"judul":"Martial Peak","genres":"Action|Adventure|Fantasy|Harem|Historical|Martial Arts|Romance"},
+      {"id":7,"judul":"Gundala","genres":"Action|Supe Power|Sci-Fi"},
+      {"id":8,"judul":"Martial Peak","genres":"Action|Adventure|Fantasy"},
+      {"id":9,"judul":"Black Clover","genres":" Action|Comedy|Fantasy|Magic|Shounen"},
+      {"id":10,"judul":"One Punch Man","genres":"Action|Comedy|Parody|Sci-Fi|Super Power|Supernatural"},
+      {"id":11,"judul":"Boku no Hero Academia Team Up Mission","genres":"Action|School Life|Shounen"},
+      {"id":12,"judul":"Tomb Raider King","genres":" Action|Adventure|Fantasy|Shounen"}
   ]
 }
