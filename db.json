@@ -1,5 +1,5 @@
 {
-  "komik": [
+  "comik": [
       {"img":"Image web/solo-leveling-season.jpg","id":1,"title":"Solo Leveling","genres":"Adventure|Action|Adventure|Fantasy|Magic|Shounen"},
       {"img":"Image web/One-Piece.jpg","id":2,"title":"One Piece","genres":"Action|Adventure|Comedy|Drama|Fantasy|Sci-Fi|Shounen|Super Power"},
       {"img":"Image web/Kimetsu-no-Yaiba.jpg","id":3,"title":"Kimetsu no Yaiba","genres":" Action|Adventure|emons|Drama|Fantasy|Historical|Martial Arts|Shounen|Supernatural|Tragedy"},
