@@ -1,17 +1,77 @@
 {
-  "comic": 
-  [
-      {"img":"Image web/solo-leveling-season.jpg","id":1,"title":"Solo Leveling","genres":"Adventure|Action|Adventure|Fantasy|Magic|Shounen"},
-      {"img":"Image web/One-Piece.jpg","id":2,"title":"One Piece","genres":"Action|Adventure|Comedy|Drama|Fantasy|Sci-Fi|Shounen|Super Power"},
-      {"img":"Image web/Kimetsu-no-Yaiba.jpg","id":3,"title":"Kimetsu no Yaiba","genres":" Action|Adventure|emons|Drama|Fantasy|Historical|Martial Arts|Shounen|Supernatural|Tragedy"},
-      {"img":"Image web/Tales-of-Demons-and-Gods.jpg","id":4,"title":"Tales of Demons and Gods","genres":" Action|Adventure|Comedy|Drama|Fantasy|Harem|Martial Arts|Romance|Shounen"},
-      {"img":"Image web/Boruto-Naruto-Next-Generatio.jpg","id":5,"title":"Boruto: Naruto Next Generations","genres":"Action|Adventure|Comedy|Drama|Fantasy|Martial Arts|Shounen|Super Power"},
-      {"img":"Image web/Martial-Peak.jpg","id":6,"title":"Martial Peak","genres":"Action|Adventure|Fantasy|Harem|Historical|Martial Arts|Romance"},
-      {"img":"Image web/noragami-1-min.jpg","id":7,"title":"Noragami","genres":"Action|Adventure|Comedy|Drama|Romance|Shounen|Supernatural"},
-      {"img":"Image web/Overlod.jpg","id":8,"title":"Overlord","genres":" Action|Adventure|Comedy|Fantasy|Game|Magic|Supernatural"},
-      {"img":"Image web/Black-Clover.jpg","id":9,"title":"Black Clover","genres":" Action|Comedy|Fantasy|Magic|Shounen"},
-      {"img":"Image web/One-Punch-Man.jpg","id":10,"title":"One Punch Man","genres":"Action|Comedy|Parody|Sci-Fi|Super Power|Supernatural"},
-      {"img":"Image web/Boku-no-Hero-Academia-Team-Up-Missi.jpg","id":11,"title":"Boku no Hero Academia Team Up Mission","genres":"Action|School Life|Shounen"},
-      {"img":"Image web/Tomb-Raider-King.jpg","id":12,"title":"Tomb Raider King","genres":" Action|Adventure|Fantasy|Shounen"}
-  ]
-}
+    "comic": 
+    [
+        {
+            "img":"Image web/solo-leveling-season.jpg",
+            "id":1,
+            "title":"Solo Leveling",
+            "genres":"Adventure|Action|Adventure|Fantasy|Magic|Shounen"
+        },
+        {
+            "img":"Image web/One-Piece.jpg",
+            "id":2,
+            "title":"One Piece",
+            "genres":"Action|Adventure|Comedy|Drama|Fantasy|Sci-Fi|Shounen|Super Power"
+        },
+        {
+            "img":"Image web/Kimetsu-no-Yaiba.jpg",
+            "id":3,
+            "title":"Kimetsu no Yaiba",
+            "genres":" Action|Adventure|emons|Drama|Fantasy|Historical|Martial Arts|Shounen|Supernatural|Tragedy"
+        },
+        {
+            "img":"Image web/Tales-of-Demons-and-Gods.jpg",
+            "id":4,
+            "title":"Tales of Demons and Gods",
+            "genres":" Action|Adventure|Comedy|Drama|Fantasy|Harem|Martial Arts|Romance|Shounen"
+        },
+        {
+            "img":"Image web/Boruto-Naruto-Next-Generatio.jpg",
+            "id":5,"title":"Boruto: Naruto Next Generations",
+            "genres":"Action|Adventure|Comedy|Drama|Fantasy|Martial Arts|Shounen|Super Power"
+        },
+        {
+            "img":"Image web/Martial-Peak.jpg",
+            "id":6,
+            "title":"Martial Peak",
+            "genres":"Action|Adventure|Fantasy|Harem|Historical|Martial Arts|Romance"
+        },
+        {
+            "img":"Image web/noragami-1-min.jpg",
+            "id":7,
+            "title":"Noragami",
+            "genres":"Action|Adventure|Comedy|Drama|Romance|Shounen|Supernatural"
+        },
+        {
+            "img":"Image web/Overlod.jpg",
+            "id":8,
+            "title":"Overlord",
+            "genres":" Action|Adventure|Comedy|Fantasy|Game|Magic|Supernatural"
+        },
+        {
+            "img":"Image web/Black-Clover.jpg",
+            "id":9,
+            "title":"Black Clover",
+            "genres":" Action|Comedy|Fantasy|Magic|Shounen"
+        },
+        {
+            "img":"Image web/One-Punch-Man.jpg",
+            "id":10,
+            "title":"One Punch Man",
+            "genres":"Action|Comedy|Parody|Sci-Fi|Super Power|Supernatural"
+        },
+        {
+            "img":"Image web/Boku-no-Hero-Academia-Team-Up-Missi.jpg",
+            "id":11,
+            "title":"Boku no Hero Academia Team Up Mission",
+            "genres":"Action|School Life|Shounen"
+        },
+        {
+            "img":"Image web/Tomb-Raider-King.jpg",
+            "id":12,
+            "title":"Tomb Raider King",
+            "genres":" Action|Adventure|Fantasy|Shounen"
+        }
+    ]
+  }
+  
